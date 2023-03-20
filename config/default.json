@@ -1,0 +1,6 @@
+{
+    "dbURL":"mongodb://localhost:27017/Ojeh-Stores",
+    "SUPPRESS_NO_CONFIG_WARNING": true,
+    "jwtsecret":"OJEH_STORES",
+    "StripeAPIKey": "YOUR STRIPE SECRET API KEY"
+}
